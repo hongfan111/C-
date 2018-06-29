@@ -1,0 +1,13 @@
+# include <stdio.h>
+
+int main(void)
+{
+   printf("I am a student \n");
+
+   return 0;
+}
+
+
+旺旺ID：gdplian
+版权所有，盗版必究
+专注精品软件专店
